@@ -1,4 +1,4 @@
-# Ceaser-Cipher-ToolCaesar Cipher Tool
+# Ceaser-Cipher-Tool
 A simple web-based Caesar Cipher encryption and decryption tool built using HTML, CSS, and JavaScript.
 
 Project Description
